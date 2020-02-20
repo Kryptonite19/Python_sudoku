@@ -39,8 +39,4 @@ def solve() :
                             return
        print(np.matrix(grid))
 
-def bruh() :
-       print("OMEGALUL")
-
-bruh()
 solve()
